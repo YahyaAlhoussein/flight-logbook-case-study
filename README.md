@@ -41,8 +41,6 @@ The application was built on a modern, serverless architecture to ensure scalabi
 
 ## 5. Visual Mockups
 
-## 5. Application Design & User Flow
-
 Since the application is not publicly accessible, these mockups illustrate the core user journey, from logging in to viewing critical data and adding a new flight record. The design prioritizes clarity, efficiency, and at-a-glance readability for mission-critical information.
 
 ![Flight Logbook App Mockups](flight-logbook-mockups.png)
